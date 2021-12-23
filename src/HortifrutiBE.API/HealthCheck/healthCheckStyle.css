@@ -1,0 +1,8 @@
+﻿:root {
+    --primaryColor: #68217a;
+    --secondaryColor: #f4f4f4;
+    --bgMenuActive: #8e47a0;
+    --bgButton: #68217a;
+    --bgAside: var(--primaryColor);
+    --logoImageUrl: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LFnUc_JmUXSyNSUFriOjUgYyT0A3x1YXLErVs9ACEP-EjQVV9K0LTTVSqjvXsEjBbpI&usqp=CAU');
+}
